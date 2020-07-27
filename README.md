@@ -1,3 +1,4 @@
-## Welcome to my home page!
+## Welcome to My Home Page!
 
-### My website: https://www.mythologyli.cn
+### My Website: https://www.mythologyli.cn
+### Minecraft Server: https://mcservice.mythologyli.cn
