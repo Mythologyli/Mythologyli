@@ -1,4 +1,4 @@
 ## Welcome to My Home Page!
 
-### My Website: https://myth.akashic.cc
+### My Website: https://myth.cx
 ### Minecraft Server: https://mc.akashic.cc
