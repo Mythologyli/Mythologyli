@@ -1,7 +1,9 @@
-## Welcome to My Home Page!
+# Peace!
 
-+ My Website: https://myth.cx
-+ Minecraft Server: https://mc.akashic.cc
++ Student in Zhejiang University.
++ Embedded Systems, Robotics and Minecraft!
++ My Blog: https://myth.cx
++ ![](https://skin.akashic.cc/avatar/player/Myth?size=20) Minecraft Server: https://mc.akashic.cc
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mythologyli&show_icons=true&count_private=true)
 
