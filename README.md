@@ -1,4 +1,4 @@
-# Peace!
+# Peace! [![wakatime](https://wakatime.com/badge/user/fbf439cc-9e02-45cc-bb7f-21ca6fd95e8d.svg)](https://wakatime.com/@fbf439cc-9e02-45cc-bb7f-21ca6fd95e8d)
 
 + Student in Zhejiang University.
 + Embedded Systems, Robotics and Minecraft!
