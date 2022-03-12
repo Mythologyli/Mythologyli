@@ -1,6 +1,6 @@
 # Peace! [![wakatime](https://wakatime.com/badge/user/fbf439cc-9e02-45cc-bb7f-21ca6fd95e8d.svg)](https://wakatime.com/@fbf439cc-9e02-45cc-bb7f-21ca6fd95e8d)
 
-+ Student in Zhejiang University.
++ Undergraduate student of Zhejiang University.
 + Embedded Systems, Robotics and Minecraft!
 + Mainly working on [Dahlia](https://github.com/Mythologyli/Dahlia) now.
 + My Blog: https://myth.cx
