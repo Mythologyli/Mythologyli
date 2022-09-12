@@ -1,4 +1,4 @@
-# Carry on! [![wakatime](https://wakatime.com/badge/user/fbf439cc-9e02-45cc-bb7f-21ca6fd95e8d.svg)](https://wakatime.com/@fbf439cc-9e02-45cc-bb7f-21ca6fd95e8d)
+# Carry on! [![wakatime](https://wakatime.com/badge/user/fbf439cc-9e02-45cc-bb7f-21ca6fd95e8d.svg)](https://wakatime.com/@fbf439cc-9e02-45cc-bb7f-21ca6fd95e8d) ![](https://komarev.com/ghpvc/?username=mythologyli)
 
 Hi, this is Myth!
 
