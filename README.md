@@ -19,8 +19,9 @@ Hi, this is Myth!
   + [STM32H743VI](https://www.st.com/en/microcontrollers-microprocessors/stm32h743vi.html) ([MCUDev DevEBox H743](https://stm32-base.org/boards/STM32H743VIT6-STM32H7XX-M)):
     + [STM32H743 CMake Template](https://github.com/Mythologyli/STM32H743-CMake-Template): Template project with [FreeRTOS](https://www.freertos.org/) for CLion.
     + [STM32 Player](https://github.com/StopPointTeam/STM32-Player): A STM32H7 based multi-function player.
-    + [MicroPython MCUDev DevEBox H743
-](https://github.com/Mythologyli/MicroPython-MCUDev-DevEBox-STM32H743): [MicroPython](https://micropython.org) firmware for MCUDev DevEBox H743.
+    + [MicroPython MCUDev DevEBox H743](https://github.com/Mythologyli/MicroPython-MCUDev-DevEBox-STM32H743): [MicroPython](https://micropython.org) port for MCUDev DevEBox H743.
+  + [ESP32-S3](https://www.espressif.com/en/products/socs/esp32-s3) ([YD-ESP32-S3](https://www.aliexpress.us/item/3256803838808294.html))
+    + [MicroPython ESP32-S3-N16R8](https://github.com/Mythologyli/MicroPython-ESP32-S3-N16R8): [MicroPython](https://micropython.org) port for ESP32-S3-N16R8.
   + [RK3399Pro](https://www.rock-chips.com/a/en/products/RK33_Series/2018/0130/874.html) ([TB-RK3399ProD](https://t.rock-chips.com/wiki.php?filename=%E6%9D%BF%E7%BA%A7%E6%8C%87%E5%8D%97/TB-RK3399ProD)):
     + [SpringFly Coffee](https://github.com/Mythologyli/SpringFlyCoffee): A coffee machine with face recognition system.
     + [Xp-58 Tool](https://github.com/Mythologyli/Xp-58-Tool): A tool to control [Xp-58 printer](https://www.xprinter.net/product/596.html) on Linux.
