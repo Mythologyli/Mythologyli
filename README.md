@@ -1,4 +1,4 @@
-# Carry on! [![wakatime](https://wakatime.com/badge/user/fbf439cc-9e02-45cc-bb7f-21ca6fd95e8d.svg)](https://wakatime.com/@fbf439cc-9e02-45cc-bb7f-21ca6fd95e8d) ![](https://komarev.com/ghpvc/?username=mythologyli)
+# Hi! [![wakatime](https://wakatime.com/badge/user/fbf439cc-9e02-45cc-bb7f-21ca6fd95e8d.svg)](https://wakatime.com/@fbf439cc-9e02-45cc-bb7f-21ca6fd95e8d) ![](https://komarev.com/ghpvc/?username=mythologyli)
 
 Hi, this is Myth!
 
@@ -7,6 +7,8 @@ Hi, this is Myth!
 + Love embedded systems, robotics and Minecraft!
 
 + My blog: [myth.cx](https://myth.cx)
+
++ My PGP public key: [81150449E71565725C5CEB3D808006F43504994E](https://keys.openpgp.org/vks/v1/by-fingerprint/81150449E71565725C5CEB3D808006F43504994E). You can send me encrypted email at [myth@myth.cx](mailto:myth@myth.cx).
 
 + ![](https://skin.akashic.cc/avatar/player/Myth?size=20) **My Minecraft server: [Akashic MC](https://mc.akashic.cc)**
 
