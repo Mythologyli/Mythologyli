@@ -2,7 +2,7 @@
 
 Hi, this is Myth!
 
-+ Undergraduate student at [Zhejiang University](https://www.zju.edu.cn/english/).
++ Research Assistant at [Zhejiang University](https://www.zju.edu.cn/english/).
 
 + Love embedded systems, robotics and Minecraft!
 
