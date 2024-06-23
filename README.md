@@ -2,8 +2,6 @@
 
 Hi, this is Myth!
 
-+ Research Assistant at [Zhejiang University](https://www.zju.edu.cn/english/).
-
 + Love embedded systems, robotics and Minecraft!
 
 + My blog: [myth.cx](https://myth.cx)
