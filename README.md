@@ -2,7 +2,7 @@
 
 Hi, this is Myth!
 
-+ EE MSc at National University of Singapore
++ EE MSc student at National University of Singapore
 
 + Love embedded systems, robotics and Minecraft!
 
