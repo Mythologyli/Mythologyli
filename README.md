@@ -36,11 +36,11 @@ Hi, this is Myth!
     + [fxListExporter](https://github.com/Mythologyli/fxListExporter): Add-in that can export list data of fx-9860 series calculator.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mythologyli&show_icons=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats-indol-tau-70.vercel.app/api?username=Mythologyli&show_icons=true&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mythologyli&layout=compact" />
+  <img align="center" src="https://github-readme-stats-indol-tau-70.vercel.app/api/top-langs/?username=Mythologyli&layout=compact" />
 </a>
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Mythologyli&custom_title=Coding%20Time%20Last%20Week&layout=compact" />
+  <img align="center" src="https://github-readme-stats-indol-tau-70.vercel.app/api/wakatime?username=Mythologyli&custom_title=Coding%20Time%20Last%20Week&layout=compact" />
 </a> -->
